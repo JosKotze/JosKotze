@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JosKotze/JosKotze/assets/67428290/68a26f54-3899-413e-8e7e-f8edbbefd17c)](https://rishavchanda.io)
+[![MasterHead](https://github.com/JosKotze/JosKotze/assets/67428290/68a26f54-3899-413e-8e7e-f8edbbefd17c)](https://github.com/JosKotze)
 <h1 align="center">Hi 👋, I'm Jos Kotze</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joskotze&label=Profile%20views&color=0e75b6&style=flat" alt="joskotze" /> </p>
 
