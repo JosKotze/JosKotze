@@ -1,9 +1,10 @@
-[![MasterHead](https://github.com/JosKotze/JosKotze/assets/67428290/68a26f54-3899-413e-8e7e-f8edbbefd17c)](https://github.com/JosKotze)
+
 <h1 align="center">Hi 👋, I'm Jos Kotze</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joskotze&label=Profile%20views&color=0e75b6&style=flat" alt="joskotze" /> </p>
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="joskotze" />
+</p>
 
 - 📫 How to reach me **jpkotze148@gmail.com**
-<img align="right" width="500" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="joskotze" /> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
